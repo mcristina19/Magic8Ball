@@ -10,4 +10,3 @@ This is a project I completed in the code academy course for python. The object 
 * To end the if/elif/else statements I made an else statement that the answer was “Error”. This is so if a number was accidentally assigned to a number outside of the range of 1, 9 then Error would be printed.
 * Next I started a new if statement so if the name is an empty string then it would print Question: then whatever answer. Else if name is provided is would print Name asks: answer.
 * Then I created another new if statement in case the question is left empty it would print “The Magic 8-Ball cannot provide a fortune unless you ask it something”. Else it would print Name asks: question. Then it would print “Magic 8-Ball’s answer: answer.
-      
